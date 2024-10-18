@@ -1,0 +1,16 @@
+# Ignorar node_modules (carpeta con dependencias de Node.js)
+node_modules/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales y caché
+*.tmp
+*.cache
+
+# Ignorar archivos de configuración del entorno
+.env
